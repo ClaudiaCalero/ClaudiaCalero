@@ -37,10 +37,10 @@ Hi, nice to meet you! My name is Clàudia, I'm a fashion designer student who's 
   </tr>
 </table>
 
-### <img src="https://user-images.githubusercontent.com/92159714/167114469-3476fb67-3c9b-46a3-8edf-f393e347cbfd.png" width="35px" /> If you want to say hi, I'll be happy to meet you more!
+### <img src="https://user-images.githubusercontent.com/92159714/167114469-3476fb67-3c9b-46a3-8edf-f393e347cbfd.gif" width="35px" /> If you want to say hi, I'll be happy to meet you more!
 
 <a href="www.linkedin.com/in/claudia-calero">
-  <img align="center" alt="Claudia's Linkdein" width="22px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png" />
+  <img align="left" alt="Claudia's Linkdein" width="22px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png" />
 </a>
 </br>
 
