@@ -32,7 +32,7 @@ Hi, nice to meet you! My name is Clàudia, I'm a fashion designer student who'st
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolTuripe&theme=radical&card_width=450em)](https://github.com/SolTuripe/SolTuripe/github-readme-stats"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaCalero&theme=radical&card_width=450em)](https://github.com/ClaudiaCalero/ClaudiaCalero/github-readme-stats"/></td>
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudiaCalero&theme=radical&count_private=true&hide_border=true&show_icons=true&include_all_commits=true" /></td>
   </tr>
 </table>
@@ -40,7 +40,7 @@ Hi, nice to meet you! My name is Clàudia, I'm a fashion designer student who'st
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="35px" /> If you want to say hi, I'll be happy to meet you more!
 
 <a href="www.linkedin.com/in/claudia-calero">
-  <img align="left" alt="Sol's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Claudia's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/142/142369.png" />
 </a>
 </br>
 
