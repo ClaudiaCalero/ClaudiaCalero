@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://c.tenor.com/p2Fs2DoSLWYAAAAC/hello-cute.gif" width="40">
 
-Hi, nice to meet you! My name is Clàudia, I'm a fashion designer student who's transitioning into Software Engineering. Through Software Engineering, their teaching and self-study I end up enrolling in a coding Bootcamp at Factoría F5, I am building a solid foundation in both frontend and backend technologies.
+Hi, nice to meet you! My name is Clàudia, I'm a fashion designer student who's transitioning into Software Engineering. Through Software Engineering friends, their teaching, their encouraging to change career and self-study I end up enrolling in a coding Bootcamp at [Factoría F5](https://factoriaf5.org/), I am building a solid foundation in both frontend and backend technologies.
 <br>
 
 <img align= "right" width= "250" src= "https://images.squarespace-cdn.com/content/v1/56cf4cd0f85082d12fa07d5b/1567541893834-8VDLWXRCNBIDOD43LRML/Dino+transparent.gif"/>
@@ -11,6 +11,12 @@ Hi, nice to meet you! My name is Clàudia, I'm a fashion designer student who's 
 - I've been improving my knowledge of JavaScript and JAVA using frameworks like React and Spring Boot
 - Object-oriented programming with TDD, following SOLID principles and clean code good practices
 - Microservice Architecture
+- Practicing my problem-solving abilities on Hackerrank website 
+- Building my own projects and my portfolio website
+- Assisting to an online master classes or courses to improve my knowledge on programming basis 
+- Researching for information to stay up to date
+- Sharing with old team members my projects and asking how to improve them
+
 
 
 ### Languages
@@ -37,7 +43,7 @@ Hi, nice to meet you! My name is Clàudia, I'm a fashion designer student who's 
   </tr>
 </table>
 
-### <img src="https://user-images.githubusercontent.com/92159714/167114469-3476fb67-3c9b-46a3-8edf-f393e347cbfd.gif" width="35px" /> If you want to say hi, I'll be happy to meet you more!
+### <img src="https://c.tenor.com/Kkt5eo-CAnQAAAAC/sunflower-hamster.gif" width="35px" /> If you want to say hi, I'll be happy to meet you more!
 
 <a href="www.linkedin.com/in/claudia-calero">
   <img align="left" alt="Claudia's Linkdein" width="22px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png" />
