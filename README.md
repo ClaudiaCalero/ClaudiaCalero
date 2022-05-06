@@ -43,7 +43,7 @@ Hi, nice to meet you! My name is Clàudia, I'm a fashion designer student who's 
   </tr>
 </table>
 
-### <img src="https://c.tenor.com/Kkt5eo-CAnQAAAAC/sunflower-hamster.gif" width="35px" /> If you want to say hi, I'll be happy to meet you more!
+### <img src="https://i.gifer.com/origin/0a/0a6246318077e29154d87bb9a30478fb_w200.gif" width="35px" /> If you want to say hi, I'll be happy to meet you more!
 
 <a href="www.linkedin.com/in/claudia-calero">
   <img align="left" alt="Claudia's Linkdein" width="22px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png" />
