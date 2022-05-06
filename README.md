@@ -1,6 +1,6 @@
-## Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
+## Hi there! <img src="https://c.tenor.com/p2Fs2DoSLWYAAAAC/hello-cute.gif" width="40">
 
-Hi, nice to meet you! My name is Clàudia, I'm a fashion designer student who'stransitioning into Software Engineering. Through Software Engineering, their teaching and self-study I end up enrolling in a coding Bootcamp at [Factoría F5](https://factoriaf5.org/), I am in continue building of a solid foundation in both frontend and backend technologies.
+Hi, nice to meet you! My name is Clàudia, I'm a fashion designer student who's transitioning into Software Engineering. Through Software Engineering, their teaching and self-study I end up enrolling in a coding Bootcamp at Factoría F5, I am building a solid foundation in both frontend and backend technologies.
 <br>
 
 <img align= "right" width= "250" src= "https://images.squarespace-cdn.com/content/v1/56cf4cd0f85082d12fa07d5b/1567541893834-8VDLWXRCNBIDOD43LRML/Dino+transparent.gif"/>
@@ -37,13 +37,13 @@ Hi, nice to meet you! My name is Clàudia, I'm a fashion designer student who'st
   </tr>
 </table>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="35px" /> If you want to say hi, I'll be happy to meet you more!
+### <img src="![image](https://user-images.githubusercontent.com/92159714/167114317-9a453411-93cb-42af-938e-cf876c25cbb6.png)" width="35px" /> If you want to say hi, I'll be happy to meet you more!
 
 <a href="www.linkedin.com/in/claudia-calero">
-  <img align="left" alt="Claudia's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/142/142369.png" />
+  <img align="left" alt="Claudia's Linkdein" width="22px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png" />
 </a>
 </br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Check the repositories section to see my efforts! Hope, you will enjoy it!
+### <img src="http://37.media.tumblr.com/44d4fb34d7d9a0407c8fd5520e2c3123/tumblr_nago0vkGOD1tbhv9ro1_500.gif" width="40"> Check the repositories section to see my efforts! Hope, you will enjoy it!
 
 -->
