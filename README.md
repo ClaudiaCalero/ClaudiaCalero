@@ -34,15 +34,6 @@ Hi, nice to meet you! My name is Clàudia, I'm a fashion designer student who's 
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> How about some stats?
-
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaCalero&theme=radical&card_width=450em)](https://github.com/ClaudiaCalero/ClaudiaCalero/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudiaCalero&theme=radical&count_private=true&hide_border=true&show_icons=true&include_all_commits=true" /></td>
-  </tr>
-</table>
-
 ### <img src="https://i.gifer.com/origin/0a/0a6246318077e29154d87bb9a30478fb_w200.gif" width="35px" /> If you want to say hi, I'll be happy to meet you more!
 
 <a href="www.linkedin.com/in/claudia-calero">
