@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://c.tenor.com/p2Fs2DoSLWYAAAAC/hello-cute.gif" width="40">
 
-Hi, nice to meet you! My name is Clàudia, I'm a fashion designer student who's transitioning into Software Engineering. Through Software Engineering friends, their teaching, their encouraging to change career and self-study I end up enrolling in a coding FullStack Bootcamp at [Factoría F5](https://factoriaf5.org/) and months later a Backend Bootcamp at [IronHack](https://ironhack.com/), now I am building and improving a solid foundation in both frontend and backend technologies.
+Hi, nice to meet you! My name is Clàudia, I'm a fashion designer student who's transitioning into Software Engineering. Through Software Engineering friends, their teaching, their encouraging to change career and self-study I end up enrolling in a coding FullStack Bootcamp at [Factoría F5](https://factoriaf5.org/) and months later a Backend Bootcamp at [IronHack](https://ironhack.com/), now I am building and improving a solid foundation in both frontend and backend technologies. Additionally, I am currently pursuing a higher degree in Multiplatform Application Development at the [IFP](https://www.ifp.es/)/.
 <br>
 
 <img align= "right" width= "250" src= "https://images.squarespace-cdn.com/content/v1/56cf4cd0f85082d12fa07d5b/1567541893834-8VDLWXRCNBIDOD43LRML/Dino+transparent.gif"/>
