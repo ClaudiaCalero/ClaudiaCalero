@@ -1,13 +1,12 @@
 ## Hi there! <img src="https://c.tenor.com/p2Fs2DoSLWYAAAAC/hello-cute.gif" width="40">
 
-Hi, nice to meet you! My name is Clàudia, and I’m a fashion designer transitioning into Software Engineering. Inspired by friends in Software Engineering, their mentorship, and encouragement, I decided to pivot my career. After months of self-study, I enrolled in a FullStack Bootcamp at [Factoría F5](https://factoriaf5.org/) and later completed a Backend Bootcamp at [IronHack](https://ironhack.com/). I am now building a strong foundation in both frontend and backend technologies while pursuing a higher degree in Multiplatform Application Development at [IFP](https://www.ifp.es/).
+Hi, nice to meet you! My name is Clàudia, and I’m a fashion designer transitioning into Software Engineering. Inspired by friends in Software Engineering, their mentorship, and encouragement, I decided to pivot my career. After months of self-study, I enrolled in an 850-hour FullStack Bootcamp at [Factoría F5](https://factoriaf5.org/) and later completed a Backend Bootcamp at [IronHack](https://ironhack.com/). I am now building a strong foundation in both frontend and backend technologies while pursuing a higher degree in Multiplatform Application Development at  [IFP](https://www.ifp.es/).
 <br>
-
-As a Junior FullStack Developer, I’m passionate about designing and building web applications using the Scrum framework and clean code practices. I completed an 850-hour FullStack Bootcamp at Factory F5, where I learned a wide array of backend and frontend technologies. Following this, I completed an intensive Java Backend Bootcamp at IronHack, which helped me sharpen my backend development skills.
+As a Junior FullStack Developer, I’m passionate about designing and building web applications using the Scrum framework and clean code practices. My bootcamp experience gave me the opportunity to learn a wide array of backend and frontend technologies, while the intensive Java Backend Bootcamp at IronHack helped me sharpen my backend development skills. With my current degree, I am further perfecting what I’ve learned and gaining the practical experience necessary to enter the job market.
 
 One of my proudest achievements was participating in my first Hackathon with Factory F5. Over three days, I worked with an international team from Spain and Colombia to create a fully functional Marketplace. This experience deepened my understanding of Scrum methodologies and reinforced the importance of collaboration in achieving ambitious goals.
 
-This past summer, I challenged myself further by participating in a Hackathon on my own, which was a rewarding experience in itself. Additionally, I took the opportunity to refresh my frontend skills through certified courses with SheCodes. Since I primarily work with backend technologies, I find that revisiting frontend concepts helps me maintain a well-rounded skill set.
+This past summer, I challenged myself further by participating in a Hackathon on my own, which was a rewarding experience in itself. Additionally, I took the opportunity to refresh my frontend skills through certified courses with [SheCodes](https://www.shecodes.io/). Since I primarily work with backend technologies, I find that revisiting frontend concepts helps me maintain a well-rounded skill set.
 
 Before entering the tech industry, I had an academic background in pattern making, clothing, and fashion design. This artistic foundation gives me a unique perspective when it comes to creating visually appealing and user-friendly applications. In my free time, I enjoy exploring digital art through self-portraits and photo retouching.
 
@@ -15,7 +14,7 @@ My goal is to continue growing as a developer within a company that values conti
 
 Every step of this journey has been meaningful, and I am proud of the progress I’ve made.
 <img align= "right" width= "250" src= "https://images.squarespace-cdn.com/content/v1/56cf4cd0f85082d12fa07d5b/1567541893834-8VDLWXRCNBIDOD43LRML/Dino+transparent.gif"/>
-  
+ <br> 
 ### Things that I'm currently working on:
 
 
