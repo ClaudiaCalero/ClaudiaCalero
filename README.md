@@ -2,6 +2,7 @@
 
 Hi, nice to meet you! My name is Clàudia, and I’m a fashion designer transitioning into Software Engineering. Inspired by friends in Software Engineering, their mentorship, and encouragement, I decided to pivot my career. After months of self-study, I enrolled in an 850-hour FullStack Bootcamp at [Factoría F5](https://factoriaf5.org/) and later completed a Backend Bootcamp at [IronHack](https://ironhack.com/). I am now building a strong foundation in both frontend and backend technologies while pursuing a higher degree in Multiplatform Application Development at  [IFP](https://www.ifp.es/).
 <br>
+
 As a Junior FullStack Developer, I’m passionate about designing and building web applications using the Scrum framework and clean code practices. My bootcamp experience gave me the opportunity to learn a wide array of backend and frontend technologies, while the intensive Java Backend Bootcamp at IronHack helped me sharpen my backend development skills. With my current degree, I am further perfecting what I’ve learned and gaining the practical experience necessary to enter the job market.
 
 One of my proudest achievements was participating in my first Hackathon with Factory F5. Over three days, I worked with an international team from Spain and Colombia to create a fully functional Marketplace. This experience deepened my understanding of Scrum methodologies and reinforced the importance of collaboration in achieving ambitious goals.
