@@ -15,20 +15,6 @@ My goal is to continue growing as a developer within a company that values conti
 
 Every step of this journey has been meaningful, and I am proud of the progress I’ve made.
 
-### Things that I'm currently working on:
-
-
-- I've been improving my knowledge of JavaScript and JAVA using frameworks like React and Spring Boot
-- Object-oriented programming with TDD, following SOLID principles and clean code good practices
-- Microservice Architecture
-- Practicing my problem-solving abilities on Hackerrank website 
-- Building my own projects and my portfolio website
-- Assisting to online master classes or courses to improve my knowledge on programming basis 
-- Researching for information to stay up to date
-- Sharing with old team members my projects and asking how to improve them
-
-
-
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
