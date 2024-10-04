@@ -37,4 +37,4 @@ Every step of this journey has been meaningful, and I am proud of the progress I
 </a>
 
 
-### Check the repositories section to see my efforts! Hope, you will enjoy it! <img src="http://37.media.tumblr.com/44d4fb34d7d9a0407c8fd5520e2c3123/tumblr_nago0vkGOD1tbhv9ro1_500.gif" width="40">
+### Check the repositories section to see my efforts! Hope, you will enjoy it!
