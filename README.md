@@ -1,4 +1,4 @@
-## Hi there! <img src="https://c.tenor.com/p2Fs2DoSLWYAAAAC/hello-cute.gif" width="40">
+## Hi there!
 
 Hi, nice to meet you! My name is Clàudia, and I’m a fashion designer transitioning into Software Engineering. Inspired by friends in Software Engineering, their mentorship, and encouragement, I decided to pivot my career. After months of self-study, I enrolled in an 850-hour FullStack Bootcamp at [Factoría F5](https://factoriaf5.org/) and later completed a Backend Bootcamp at [IronHack](https://ironhack.com/). I am now building a strong foundation in both frontend and backend technologies while pursuing a higher degree in Multiplatform Application Development at  [IFP](https://www.ifp.es/).
 <br>
