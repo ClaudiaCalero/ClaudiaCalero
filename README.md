@@ -36,4 +36,5 @@ Every step of this journey has been meaningful, and I am proud of the progress I
   <img align="left" alt="Claudia's Linkdein" width="22px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png" />
 </a>
 <br>
+
 ### Check the repositories section to see my efforts! Hope, you will enjoy it!
