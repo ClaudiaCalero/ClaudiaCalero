@@ -14,8 +14,7 @@ Before entering the tech industry, I had an academic background in pattern makin
 My goal is to continue growing as a developer within a company that values continuous learning and personal development. I am eager to contribute my technical skills and creative vision to a dynamic team that is working on innovative projects.
 
 Every step of this journey has been meaningful, and I am proud of the progress I’ve made.
-<img align= "right" width= "250" src= "https://images.squarespace-cdn.com/content/v1/56cf4cd0f85082d12fa07d5b/1567541893834-8VDLWXRCNBIDOD43LRML/Dino+transparent.gif"/>
- <br> 
+
 ### Things that I'm currently working on:
 
 
@@ -45,7 +44,7 @@ Every step of this journey has been meaningful, and I am proud of the progress I
 
 ---
 
-### <img src="https://i.gifer.com/origin/0a/0a6246318077e29154d87bb9a30478fb_w200.gif" width="35px" /> If you want to say hi, I'll be happy to meet you more!
+###If you want to say hi, I'll be happy to meet you more!
 
 <a href="www.linkedin.com/in/claudia-calero">
   <img align="left" alt="Claudia's Linkdein" width="22px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png" />
