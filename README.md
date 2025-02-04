@@ -32,8 +32,8 @@ Every step of this journey has been meaningful, and I am proud of the progress I
 
 ### If you want to say hi, I'll be happy to meet you more!
 
-<a href="www.linkedin.com/in/claudia-calero">
-  <img align="left" alt="Claudia's Linkdein" width="22px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png" />
+<a href="[www.linkedin.com/in/claudia-calero](https://www.linkedin.com/in/claudia-calero/)">
+  <img align="left" alt="Claudia's Linkdein" width="22px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png" /> 
 </a>
 <br>
 
