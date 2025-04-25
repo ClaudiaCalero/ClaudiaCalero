@@ -17,7 +17,7 @@ Every step of this journey has been meaningful, and I am proud of the progress I
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) 
 
 ### Technologies and Tools
 
