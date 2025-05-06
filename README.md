@@ -26,7 +26,8 @@ Every step of this journey has been meaningful, and I am proud of the progress I
 
 ### I'm eager to learn and improve
 
-![React native](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=react) ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux) ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
 
 ---
 
