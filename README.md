@@ -38,4 +38,11 @@ Every step of this journey has been meaningful, and I am proud of the progress I
 </a>
 <br>
 
+💼 
+
+If you’d like to learn more about my experience, education, and technical background, you can check my full CV here:
+
+[📄 View my CV (PDF)](https://github.com/user-attachments/files/23441720/CaleroDuro-Claudia.pdf)
+
+
 ### Check the repositories section to see my efforts! Hope, you will enjoy it!
