@@ -30,17 +30,19 @@ Every step of this journey has been meaningful, and I am proud of the progress I
 
 
 ---
-
 ### If you want to say hi, I'll be happy to meet you more!
 
 <a href="https://www.linkedin.com/in/claudia-calero/">
-  <img align="left" alt="Claudia's Linkdein" width="22px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png" /> 
+  <img align="left" alt="Claudia's LinkedIn" width="22px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png" />
 </a>
-<br>
 
+
+### 💼 
 If you’d like to learn more about my experience, education, and technical background, you can check my full CV here:
 
-[📄 View my CV (PDF)](https://github.com/user-attachments/files/23441720/CaleroDuro-Claudia.pdf)
+[📄 View my CV (PDF)](https://github.com/user-attachments/files/23441666/CaleroDuro-Claudia.2.pdf)
 
+---
 
-### Check the repositories section to see my efforts! Hope, you will enjoy it!
+### Check the repositories section to see my efforts! Hope you enjoy it!
+
