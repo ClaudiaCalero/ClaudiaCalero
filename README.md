@@ -8,9 +8,8 @@ During my internship, I worked with Java, Python, TypeScript, Camunda, and RPA s
 
 I’m excited to continue learning, collaborating with talented teams, and building meaningful software solutions.
 
-<br>
 
----
+##
 
 ### Languages
 
@@ -43,8 +42,8 @@ I’m excited to continue learning, collaborating with talented teams, and build
 ![Camunda](https://img.shields.io/badge/-Camunda-000000?style=flat&logo=camunda)
 ![RPA](https://img.shields.io/badge/-RPA-000000?style=flat)
 
+##
 
----
 ### If you want to say hi, I'll be happy to meet you more! <a href="https://www.linkedin.com/in/claudia-calero/"><img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png" width="22px" style="vertical-align:middle;" /></a>
 
 <br>
@@ -52,7 +51,5 @@ I’m excited to continue learning, collaborating with talented teams, and build
 
 You can check my full CV here: [📄 View my CV (PDF)](https://github.com/user-attachments/files/23441666/CaleroDuro-Claudia.2.pdf)
 
----
-
-### Check the repositories section to see my efforts! Hope you enjoy it!
+Check the repositories section to see my efforts! Hope you enjoy it!
 
