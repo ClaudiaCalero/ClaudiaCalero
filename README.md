@@ -1,28 +1,20 @@
 ## Hi there!
+
 Hi, nice to meet you! My name is Clàudia, and I’m a software developer with a background in fashion design. Inspired by friends working in tech and encouraged by their mentorship, I decided to pursue a new career path.
 
 Since then, I have continuously invested in my learning through personal projects, self-study, specialized courses, bootcamps, hackathons, and formal education. I completed an 850-hour FullStack Bootcamp at [Factoría F5](https://factoriaf5.org/), a Backend Bootcamp at [IronHack](https://ironhack.com/), and recently finished a Higher Degree in Multiplatform Application Development (DAM) at [IFP](https://www.ifp.es/).
 
-I believe continuous learning is one of the most important aspects of being a developer, which is why I regularly explore new technologies, participate in hackathons, and complete both frontend and backend courses to keep my skills up to date.
+I believe continuous learning is one of the most important aspects of being a developer, which is why I explore new technologies through personal projects, hackathons, and specialized courses. This mindset recently led me to complete a six-month internship at Grup Montaner, where I contributed to the company's digital transformation initiatives.
+
+During my internship, I worked with Java, Python, TypeScript, Camunda, and RPA solutions, helping to automate business processes and improve operational workflows. I collaborated on workflow modeling, process automation, frontend development, and user interface design, gaining experience across different stages of the software development lifecycle. This role gave me exposure to real-world software projects, collaborative workflows, agile environments, and enterprise process automation.
+
+Before entering the tech industry, I studied pattern making, clothing, and fashion design. This creative background helps me bring both technical and design perspectives when building user-friendly applications.
+
+I’m excited to continue learning, collaborating with talented teams, and building meaningful software solutions.
 
 <br>
 
-Recently, I completed a six-month internship at Grup Montaner, contributing to the company's digital transformation efforts. During this period, I worked with Java, Python, TypeScript, and Camunda, helping to automate business processes and improve operational workflows.
-
-My responsibilities included workflow modeling with Camunda Modeler, process automation, and collaborating on RPA (Robotic Process Automation) solutions designed to streamline business operations. I also worked with virtualized environments used to execute and monitor automated processes, gaining valuable insight into enterprise automation and workflow management.
-
-In addition to backend and automation tasks, I contributed to frontend development and user interface design, taking ownership of the layout and usability of several internal applications. This allowed me to strengthen both my technical and design skills while working across different areas of the development process.
-
-Through this experience, I gained valuable exposure to real-world software projects, collaborative workflows, agile environments, and enterprise process automation.
-
-<br>
-
-Before entering the tech industry, I had an academic background in pattern making, clothing, and fashion design. This creative foundation gives me a unique perspective when designing visually appealing and user-friendly applications. In my free time, I enjoy digital art, self-portrait photography, and photo retouching.
-
-My goal is to continue growing as a developer within a company that values continuous learning and personal development. I am eager to contribute my technical skills and creative vision to a dynamic team working on innovative projects.
-
-I’m excited to continue learning, building meaningful solutions, and growing as a developer.
-
+---
 
 ### Languages
 
@@ -32,6 +24,8 @@ I’m excited to continue learning, building meaningful solutions, and growing a
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![CSharp](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=csharp)
+
+<br>
 
 ### Technologies and Tools
 
@@ -53,6 +47,7 @@ I’m excited to continue learning, building meaningful solutions, and growing a
 ![Camunda](https://img.shields.io/badge/-Camunda-000000?style=flat&logo=camunda)
 ![RPA](https://img.shields.io/badge/-RPA-000000?style=flat)
 
+---
 
 ### I'm eager to learn and improve
 
@@ -67,7 +62,10 @@ I’m excited to continue learning, building meaningful solutions, and growing a
 </a>
 
 
-### 💼 
+<br>
+<br>
+
+
 If you’d like to learn more about my experience, education, and technical background, you can check my full CV here:
 
 [📄 View my CV (PDF)](https://github.com/user-attachments/files/23441666/CaleroDuro-Claudia.2.pdf)
