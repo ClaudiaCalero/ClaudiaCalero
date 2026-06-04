@@ -1,15 +1,9 @@
 ## Hi there!
+Hi, nice to meet you! My name is Clàudia, and I’m a fashion designer who transitioned into Software Engineering. Inspired by friends working in tech and encouraged by their mentorship, I decided to pursue a new career path.
 
-Hi, nice to meet you! My name is Clàudia, and I’m a fashion designer transitioning into Software Engineering. Inspired by friends in Software Engineering, their mentorship, and encouragement, I decided to pivot my career. After months of self-study, I enrolled in an 850-hour FullStack Bootcamp at [Factoría F5](https://factoriaf5.org/) and later completed a Backend Bootcamp at [IronHack](https://ironhack.com/). I am now building a strong foundation in both frontend and backend technologies while pursuing a higher degree in Multiplatform Application Development at  [IFP](https://www.ifp.es/).
-<br>
+Since then, I have continuously invested in my learning through personal projects, self-study, specialized courses, bootcamps, hackathons, and formal education. I completed an 850-hour FullStack Bootcamp at [Factoría F5](https://factoriaf5.org/), a Backend Bootcamp at [IronHack](https://ironhack.com/), and recently finished a Higher Degree in Multiplatform Application Development (DAM) at [IFP](https://www.ifp.es/).
 
-As a Junior FullStack Developer, I’m passionate about designing and building web applications using the Scrum framework and clean code practices. My bootcamp experience gave me the opportunity to learn a wide array of backend and frontend technologies, while the intensive Java Backend Bootcamp at IronHack helped me sharpen my backend development skills. With my current degree, I am further perfecting what I’ve learned and gaining the practical experience necessary to enter the job market.
-
-One of my proudest achievements was participating in my first Hackathon with Factory F5. Over three days, I worked with an international team from Spain and Colombia to create a fully functional Marketplace. This experience deepened my understanding of Scrum methodologies and reinforced the importance of collaboration in achieving ambitious goals.
-
-This past summer, I challenged myself further by participating in a Hackathon on my own, which was a rewarding experience in itself. Additionally, I took the opportunity to refresh my frontend skills through certified courses with [SheCodes](https://www.shecodes.io/). Since I primarily work with backend technologies, I find that revisiting frontend concepts helps me maintain a well-rounded skill set.
-
-Before entering the tech industry, I had an academic background in pattern making, clothing, and fashion design. This artistic foundation gives me a unique perspective when it comes to creating visually appealing and user-friendly applications. In my free time, I enjoy exploring digital art through self-portraits and photo retouching.
+I believe continuous learning is one of the most important aspects of being a developer, which is why I regularly explore new technologies, participate in hackathons, and complete both frontend and backend courses to keep my skills up to date.
 
 Recently, I completed a six-month internship, contributing to the company's digital transformation efforts. During this period, I worked with Java, Python, TypeScript, and Camunda, helping to automate business processes and improve operational workflows.
 
@@ -17,13 +11,14 @@ My responsibilities included workflow modeling with Camunda Modeler, process aut
 
 In addition to backend and automation tasks, I contributed to frontend development and user interface design, taking ownership of the layout and usability of several internal applications. This allowed me to strengthen both my technical and design skills while working across different areas of the development process.
 
-This experience strengthened my full-stack development skills, improved my understanding of business process management, and gave me valuable exposure to real-world software projects, collaborative workflows, and agile environments.
+Through this experience, I gained valuable exposure to real-world software projects, collaborative workflows, agile environments, and enterprise process automation.
 
-My goal is to continue growing as a developer within a company that values continuous learning and personal development. I am eager to contribute my technical skills and creative vision to a dynamic team that is working on innovative projects.
+Before entering the tech industry, I had an academic background in pattern making, clothing, and fashion design. This creative foundation gives me a unique perspective when designing visually appealing and user-friendly applications. In my free time, I enjoy digital art, self-portrait photography, and photo retouching.
+
+My goal is to continue growing as a developer within a company that values continuous learning and personal development. I am eager to contribute my technical skills and creative vision to a dynamic team working on innovative projects.
 
 Every step of this journey has been meaningful, and I am proud of the progress I’ve made.
 
-### Languages
 
 ### Languages
 
