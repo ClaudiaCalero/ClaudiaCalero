@@ -1,5 +1,5 @@
 ## Hi there!
-Hi, nice to meet you! My name is Clàudia, and I’m a fashion designer who transitioned into Software Engineering. Inspired by friends working in tech and encouraged by their mentorship, I decided to pursue a new career path.
+Hi, nice to meet you! My name is Clàudia, and I’m a software developer with a background in fashion design. Inspired by friends working in tech and encouraged by their mentorship, I decided to pursue a new career path.
 
 Since then, I have continuously invested in my learning through personal projects, self-study, specialized courses, bootcamps, hackathons, and formal education. I completed an 850-hour FullStack Bootcamp at [Factoría F5](https://factoriaf5.org/), a Backend Bootcamp at [IronHack](https://ironhack.com/), and recently finished a Higher Degree in Multiplatform Application Development (DAM) at [IFP](https://www.ifp.es/).
 
@@ -7,7 +7,7 @@ I believe continuous learning is one of the most important aspects of being a de
 
 <br>
 
-Recently, I completed a six-month internship, contributing to the company's digital transformation efforts. During this period, I worked with Java, Python, TypeScript, and Camunda, helping to automate business processes and improve operational workflows.
+Recently, I completed a six-month internship at Grup Montaner, contributing to the company's digital transformation efforts. During this period, I worked with Java, Python, TypeScript, and Camunda, helping to automate business processes and improve operational workflows.
 
 My responsibilities included workflow modeling with Camunda Modeler, process automation, and collaborating on RPA (Robotic Process Automation) solutions designed to streamline business operations. I also worked with virtualized environments used to execute and monitor automated processes, gaining valuable insight into enterprise automation and workflow management.
 
@@ -21,7 +21,7 @@ Before entering the tech industry, I had an academic background in pattern makin
 
 My goal is to continue growing as a developer within a company that values continuous learning and personal development. I am eager to contribute my technical skills and creative vision to a dynamic team working on innovative projects.
 
-Every step of this journey has been meaningful, and I am proud of the progress I’ve made.
+I’m excited to continue learning, building meaningful solutions, and growing as a developer.
 
 
 ### Languages
