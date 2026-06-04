@@ -21,7 +21,7 @@ I’m excited to continue learning, collaborating with talented teams, and build
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![CSharp](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=csharp)
 
-<br>
+
 
 ### Technologies and Tools
 
