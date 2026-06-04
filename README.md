@@ -2,13 +2,9 @@
 
 Hi, nice to meet you! My name is Clàudia, and I’m a software developer with a background in fashion design. Inspired by friends working in tech and encouraged by their mentorship, I decided to pursue a new career path.
 
-Since then, I have continuously invested in my learning through personal projects, self-study, specialized courses, bootcamps, hackathons, and formal education. I completed an 850-hour FullStack Bootcamp at [Factoría F5](https://factoriaf5.org/), a Backend Bootcamp at [IronHack](https://ironhack.com/), and recently finished a Higher Degree in Multiplatform Application Development (DAM) at [IFP](https://www.ifp.es/).
-
-I believe continuous learning is one of the most important aspects of being a developer, which is why I explore new technologies through personal projects, hackathons, and specialized courses. This mindset recently led me to complete a six-month internship at Grup Montaner, where I contributed to the company's digital transformation initiatives.
+Since then, I have continuously invested in my learning through personal projects, self-study, specialized courses, bootcamps, hackathons, and formal education. I completed an 850-hour FullStack Bootcamp at [Factoría F5](https://factoriaf5.org/), a Backend Bootcamp at [IronHack](https://ironhack.com/), and recently finished a Higher Degree in Multiplatform Application Development (DAM) at [IFP](https://www.ifp.es/), which included a six-month internship at Grup Montaner, where I contributed to the company's digital transformation initiatives.
 
 During my internship, I worked with Java, Python, TypeScript, Camunda, and RPA solutions, helping to automate business processes and improve operational workflows. I collaborated on workflow modeling, process automation, frontend development, and user interface design, gaining experience across different stages of the software development lifecycle. This role gave me exposure to real-world software projects, collaborative workflows, agile environments, and enterprise process automation.
-
-Before entering the tech industry, I studied pattern making, clothing, and fashion design. This creative background helps me bring both technical and design perspectives when building user-friendly applications.
 
 I’m excited to continue learning, collaborating with talented teams, and building meaningful software solutions.
 
