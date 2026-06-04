@@ -5,6 +5,8 @@ Since then, I have continuously invested in my learning through personal project
 
 I believe continuous learning is one of the most important aspects of being a developer, which is why I regularly explore new technologies, participate in hackathons, and complete both frontend and backend courses to keep my skills up to date.
 
+<br>
+
 Recently, I completed a six-month internship, contributing to the company's digital transformation efforts. During this period, I worked with Java, Python, TypeScript, and Camunda, helping to automate business processes and improve operational workflows.
 
 My responsibilities included workflow modeling with Camunda Modeler, process automation, and collaborating on RPA (Robotic Process Automation) solutions designed to streamline business operations. I also worked with virtualized environments used to execute and monitor automated processes, gaining valuable insight into enterprise automation and workflow management.
@@ -12,6 +14,8 @@ My responsibilities included workflow modeling with Camunda Modeler, process aut
 In addition to backend and automation tasks, I contributed to frontend development and user interface design, taking ownership of the layout and usability of several internal applications. This allowed me to strengthen both my technical and design skills while working across different areas of the development process.
 
 Through this experience, I gained valuable exposure to real-world software projects, collaborative workflows, agile environments, and enterprise process automation.
+
+<br>
 
 Before entering the tech industry, I had an academic background in pattern making, clothing, and fashion design. This creative foundation gives me a unique perspective when designing visually appealing and user-friendly applications. In my free time, I enjoy digital art, self-portrait photography, and photo retouching.
 
