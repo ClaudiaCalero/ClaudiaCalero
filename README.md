@@ -43,28 +43,14 @@ I’m excited to continue learning, collaborating with talented teams, and build
 ![Camunda](https://img.shields.io/badge/-Camunda-000000?style=flat&logo=camunda)
 ![RPA](https://img.shields.io/badge/-RPA-000000?style=flat)
 
----
-
-### I'm eager to learn and improve
-
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
 
 ---
-### If you want to say hi, I'll be happy to meet you more!
+### If you want to say hi, I'll be happy to meet you more! <a href="https://www.linkedin.com/in/claudia-calero/"><img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png" width="22px" style="vertical-align:middle;" /></a>
 
-<a href="https://www.linkedin.com/in/claudia-calero/">
-  <img align="left" alt="Claudia's LinkedIn" width="22px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png" />
-</a>
-
-
-<br>
 <br>
 
 
-If you’d like to learn more about my experience, education, and technical background, you can check my full CV here:
-
-[📄 View my CV (PDF)](https://github.com/user-attachments/files/23441666/CaleroDuro-Claudia.2.pdf)
+You can check my full CV here: [📄 View my CV (PDF)](https://github.com/user-attachments/files/23441666/CaleroDuro-Claudia.2.pdf)
 
 ---
 
