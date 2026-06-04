@@ -11,17 +11,48 @@ This past summer, I challenged myself further by participating in a Hackathon on
 
 Before entering the tech industry, I had an academic background in pattern making, clothing, and fashion design. This artistic foundation gives me a unique perspective when it comes to creating visually appealing and user-friendly applications. In my free time, I enjoy exploring digital art through self-portraits and photo retouching.
 
+Recently, I completed a six-month internship, contributing to the company's digital transformation efforts. During this period, I worked with Java, Python, TypeScript, and Camunda, helping to automate business processes and improve operational workflows.
+
+My responsibilities included workflow modeling with Camunda Modeler, process automation, and collaborating on RPA (Robotic Process Automation) solutions designed to streamline business operations. I also worked with virtualized environments used to execute and monitor automated processes, gaining valuable insight into enterprise automation and workflow management.
+
+In addition to backend and automation tasks, I contributed to frontend development and user interface design, taking ownership of the layout and usability of several internal applications. This allowed me to strengthen both my technical and design skills while working across different areas of the development process.
+
+This experience strengthened my full-stack development skills, improved my understanding of business process management, and gave me valuable exposure to real-world software projects, collaborative workflows, and agile environments.
+
 My goal is to continue growing as a developer within a company that values continuous learning and personal development. I am eager to contribute my technical skills and creative vision to a dynamic team that is working on innovative projects.
 
 Every step of this journey has been meaningful, and I am proud of the progress I’ve made.
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) 
+### Languages
+
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![CSharp](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=csharp)
 
 ### Technologies and Tools
 
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass) ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=springboot) ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql) ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel) ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git) ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman) ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma) ![Trello](https://img.shields.io/badge/-Trello-000000?style=flat&logo=trello) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion)
+
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=springboot)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![Trello](https://img.shields.io/badge/-Trello-000000?style=flat&logo=trello)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion)
+![Camunda](https://img.shields.io/badge/-Camunda-000000?style=flat&logo=camunda)
+![RPA](https://img.shields.io/badge/-RPA-000000?style=flat)
 
 
 ### I'm eager to learn and improve
