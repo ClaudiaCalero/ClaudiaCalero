@@ -1,4 +1,3 @@
-[CaleroDuró-Clàudia(EN).pdf](https://github.com/user-attachments/files/28671744/CaleroDuro-Claudia.EN.pdf)
 ## Hi there!
 
 Hi, nice to meet you! My name is Clàudia, and I’m a software developer with a background in fashion design. Inspired by friends working in tech and encouraged by their mentorship, I decided to pursue a new career path.
