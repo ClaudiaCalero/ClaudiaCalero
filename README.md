@@ -1,3 +1,4 @@
+[CaleroDuró-Clàudia-CV.pdf](https://github.com/user-attachments/files/32475771/CaleroDuro-Claudia-CV.pdf)
 ## Hi there!
 
 Hi, nice to meet you! My name is Clàudia, and I’m a software developer with a background in fashion design. Inspired by friends working in tech and encouraged by their mentorship, I decided to pursue a new career path.
@@ -49,7 +50,7 @@ I’m excited to continue learning, collaborating with talented teams, and build
 <br>
 
 
-You can check my full CV here: [📄 View my CV (PDF)](https://github.com/user-attachments/files/28671781/CaleroDuro-Claudia.EN.pdf)
+You can check my full CV here: [📄 View my CV (PDF)](https://github.com/user-attachments/files/32475793/CaleroDuro-Claudia-CV.pdf)
 
 Check the repositories section to see my efforts! Hope you enjoy it!
 
