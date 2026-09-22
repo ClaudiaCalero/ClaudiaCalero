@@ -8,7 +8,7 @@ During my time at Montaner, I worked with Java, Python, TypeScript, Camunda, and
 
 ### ⚙️ My Work Philosophy & Remote Focus
 
-Ideally, I am actively seeking stability and professional growth as a **Junior Full Stack Developer (Java / React)** within **100% remote and asynchronous work environments**.
+Ideally, I am actively seeking stability and professional growth as a **Junior Full Stack Developer ** within **100% remote and asynchronous work environments**.
 
 - **🎯 Value-driven autonomy:** I thrive in teams that prioritize transparent, documented written communication where tasks, specifications, and progress are strictly recorded in writing to ensure clarity, high information retention, and team autonomy while minimizing unnecessary meetings.
 - **💬 Adaptive Communication:** I value the ability to transfer information clearly and adapt technical concepts to different team levels, ensuring everyone stays aligned without friction.
