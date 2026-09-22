@@ -20,14 +20,14 @@ I’m excited to continue learning, collaborating with organized teams, and buil
 
 ### 💻 Languages
 
-#### 🔹 Core Languages
+#### Core Languages
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://shields.io/badge/-SQL-000000?style=flat&logo=sql)
 
-#### 🎓 Academic Exposure & Foundations
+#### Academic Exposure & Foundations
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
@@ -39,14 +39,14 @@ I’m excited to continue learning, collaborating with organized teams, and buil
 
 ### 🛠️ Technologies and Tools
 
-#### 💻 Main Stack (Front-End & Back-End)
+#### Main Stack (Front-End & Back-End)
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=springboot)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 
-#### 🎨 Front-End & Mobile Development
+#### Front-End & Mobile Development
 
 
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
@@ -55,13 +55,13 @@ I’m excited to continue learning, collaborating with organized teams, and buil
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 
-#### ⚙️ Back-End & Frameworks
+#### Back-End & Frameworks
 
 ![NodeJS](https://shields.io/badge/-NodeJS-000000?style=flat&logo=nodejs)
 ![Express](https://shields.io/badge/-Express-000000?style=flat&logo=express)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-000000?style=flat&logo=hibernate)
 
-#### 🗄️ Databases & Cloud Services
+#### Databases & Cloud Services
 
 ![PostgreSQL](https://shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 ![MongoDB](https://shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
@@ -69,7 +69,7 @@ I’m excited to continue learning, collaborating with organized teams, and buil
 ![Vercel](https://shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
 ![Railway](https://shields.io/badge/-Railway-000000?style=flat&logo=railway)
 
-#### 🧪 Testing, Automation & Engines
+#### Testing, Automation & Engines
 
 ![JUnit](https://shields.io/badge/-JUnit-000000?style=flat&logo=junit)
 ![Mockito](https://shields.io/badge/-Mockito-000000?style=flat&logo=mockito)
@@ -77,7 +77,7 @@ I’m excited to continue learning, collaborating with organized teams, and buil
 ![RPA](https://img.shields.io/badge/-RPA-000000?style=flat&logo=rpa)
 ![Unity](https://shields.io/badge/-Unity-000000?style=flat&logo=unity)
 
-#### 🔧 Tools, Methodologies & Management
+#### Tools, Methodologies & Management
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
@@ -85,11 +85,11 @@ I’m excited to continue learning, collaborating with organized teams, and buil
 ![Trello](https://shields.io/badge/-Trello-000000?style=flat&logo=trello)
 ![Notion](https://shields.io/badge/-Notion-000000?style=flat&logo=notion)
 
-#### 🎓 Academic Exposure & Frameworks
+#### Academic Exposure & Frameworks
 ![VueJS](https://shields.io/badge/-VueJS-000000?style=flat&logo=vuejs)
 ![Flutter](https://shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
-![AndroidStudio](https://shields.io/-AndroidStudio-000000?style=flat&logo=androidstudio)
+![Android Studio](https://shields.io/badge/-Android%20Studio-000000?style=flat&logo=androidstudio)
 
 ---
 
