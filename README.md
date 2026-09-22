@@ -1,16 +1,21 @@
-## Hi there!
+## Hi there! 
 
 Hi, nice to meet you! My name is Clàudia, and I’m a software developer with a background in fashion design. Inspired by friends working in tech and encouraged by their mentorship, I decided to pursue a new career path.
 
 Since then, I have continuously invested in my learning through personal projects, self-study, specialized courses, bootcamps, hackathons, and formal education. I completed an 850-hour FullStack Bootcamp at [Factoría F5](https://factoriaf5.org/), a Backend Bootcamp at [IronHack](https://ironhack.com/), and recently finished a Higher Degree in Multiplatform Application Development (DAM) at [IFP](https://www.ifp.es/), which included a six-month internship at Grup Montaner, where I contributed to the company's digital transformation initiatives.
 
-During my time at Montaner, I worked with Java, Python, TypeScript, Camunda, and RPA solutions, helping to automate business processes and improve operational workflows. I collaborated on workflow modeling, process automation, frontend development, and user interface design, gaining experience across different stages of the software development lifecycle. This role gave me exposure to real-world software projects, collaborative workflows, agile environments, and enterprise process automation.
+During my time at Montaner, I worked with Java, Python, TypeScript, Camunda, and RPA solutions, helping to automate business processes, synthesize complex enterprise workflows, and ensure clear, documented system communication across agile environments.
 
-I’m excited to continue learning, collaborating with talented teams, and building meaningful software solutions.
+### ⚙️ My Work Philosophy & Remote Focus
+Ideally, I am actively seeking stability and professional growth as a **Junior Full Stack Developer (Java / React)** within **100% remote and asynchronous work environments**.
+* **Value-driven autonomy:** I thrive in teams that prioritize transparent, documented written communication where tasks, specifications, and progress are strictly recorded in writing to ensure clarity, high information retention, and team autonomy while minimizing unnecessary meetings.
+* **Adaptive Communication:** I value the ability to transfer information clearly and adapt technical concepts to different team levels, ensuring everyone stays aligned without friction.
+* **Continuous Growth:** I am looking to join supportive, well-structured teams committed to developing junior talent through rigorous onboarding and real mentorship from senior professionals.
+
+I’m excited to continue learning, collaborating with organized teams, and building meaningful, robust software solutions from my base in Barcelona, Spain.
 
 
 ##
-
 ### Languages
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk)
@@ -19,28 +24,48 @@ I’m excited to continue learning, collaborating with talented teams, and build
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![CSharp](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=csharp)
-
-
+![Kotlin](https://shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
+![SQL](https://shields.io/badge/-SQL-000000?style=flat&logo=sql)
 
 ### Technologies and Tools
 
-
+#### Front-End & Mobile Development
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
+![VueJS](https://shields.io/badge/-VueJS-000000?style=flat&logo=vuejs)
+![Flutter](https://shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
+![TailwindCSS](https://shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+
+#### Back-End & Frameworks
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=springboot)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![NodeJS](https://shields.io/badge/-NodeJS-000000?style=flat&logo=nodejs)
+![Express](https://shields.io/badge/-Express-000000?style=flat&logo=express)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
+![Hibernate](https://shields.io/badge/-Hibernate-000000?style=flat&logo=hibernate)
+
+#### Databases & Cloud Services
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![PostgreSQL](https://shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+![MongoDB](https://shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![Firebase](https://shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
+
+#### Testing, Automation & Engines
+![JUnit](https://shields.io/badge/-JUnit-000000?style=flat&logo=junit)
+![Mockito](https://shields.io/badge/-Mockito-000000?style=flat&logo=mockito)
+![Camunda](https://img.shields.io/badge/-Camunda-000000?style=flat&logo=camunda)
+![RPA](https://img.shields.io/badge/-RPA-000000?style=flat&logo=rpa)
+![Unity](https://shields.io/badge/-Unity-000000?style=flat&logo=unity)
+
+#### Tools, Methodologies & Management
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Trello](https://img.shields.io/badge/-Trello-000000?style=flat&logo=trello)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion)
-![Camunda](https://img.shields.io/badge/-Camunda-000000?style=flat&logo=camunda)
-![RPA](https://img.shields.io/badge/-RPA-000000?style=flat)
 
 ##
 
