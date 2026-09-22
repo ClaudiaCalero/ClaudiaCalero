@@ -49,7 +49,7 @@ I’m excited to continue learning, collaborating with talented teams, and build
 <br>
 
 
-You can check my full CV here: [📄 View my CV (PDF)](https://github.com/user-attachments/files/32475793/CaleroDuro-Claudia-CV.pdf)
+You can check my full CV here: [📄 View my CV (PDF)](https://github.com/user-attachments/files/32526254/CaleroDuro-Claudia-CV.pdf))
 
 Check the repositories section to see my efforts! Hope you enjoy it!
 
