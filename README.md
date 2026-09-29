@@ -75,7 +75,6 @@ I’m excited to continue learning, collaborating with organized teams, and buil
 ![Mockito](https://shields.io/badge/-Mockito-000000?style=flat&logo=mockito)
 ![Camunda](https://img.shields.io/badge/-Camunda-000000?style=flat&logo=camunda)
 ![RPA](https://img.shields.io/badge/-RPA-000000?style=flat&logo=rpa)
-![Unity](https://shields.io/badge/-Unity-000000?style=flat&logo=unity)
 
 #### Tools, Methodologies & Management
 
@@ -90,6 +89,7 @@ I’m excited to continue learning, collaborating with organized teams, and buil
 ![Flutter](https://shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
 ![Android Studio](https://shields.io/badge/-Android%20Studio-000000?style=flat&logo=androidstudio)
+![Unity](https://shields.io/badge/-Unity-000000?style=flat&logo=unity)
 
 ---
 
