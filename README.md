@@ -68,6 +68,8 @@ I’m excited to continue learning, collaborating with organized teams, and buil
 ![Firebase](https://shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 ![Vercel](https://shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
 ![Railway](https://shields.io/badge/-Railway-000000?style=flat&logo=railway)
+![Render](https://shields.io/badge/-Render-000000?style=flat&logo=render)
+![Aiven](https://shields.io/badge/-Aiven-000000?style=flat&logo=aiven)
 
 #### Testing, Automation & Engines
 
