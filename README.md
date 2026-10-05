@@ -48,7 +48,6 @@ I’m excited to continue learning, collaborating with organized teams, and buil
 
 #### Front-End & Mobile Development
 
-
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![Sass](https://shields.io/badge/-Sass-000000?style=flat&logo=sass)
 ![TailwindCSS](https://shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss)
@@ -71,6 +70,9 @@ I’m excited to continue learning, collaborating with organized teams, and buil
 ![Render](https://shields.io/badge/-Render-000000?style=flat&logo=render)
 ![Aiven](https://shields.io/badge/-Aiven-000000?style=flat&logo=aiven)
 
+#### DevOps & Containers
+![Docker](https://shields.io/badge/-Docker-000000?style=flat&logo=docker)
+
 #### Testing, Automation & Engines
 
 ![JUnit](https://shields.io/badge/-JUnit-000000?style=flat&logo=junit)
@@ -85,6 +87,7 @@ I’m excited to continue learning, collaborating with organized teams, and buil
 ![Postman](https://shields.io/badge/-Postman-000000?style=flat&logo=postman)
 ![Trello](https://shields.io/badge/-Trello-000000?style=flat&logo=trello)
 ![Notion](https://shields.io/badge/-Notion-000000?style=flat&logo=notion)
+![ClaudeAI](https://shields.io/badge/-ClaudeAI-000000?style=flat&logo=claudeAI)
 
 #### Academic Exposure & Frameworks
 ![VueJS](https://shields.io/badge/-VueJS-000000?style=flat&logo=vuejs)
