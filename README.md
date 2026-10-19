@@ -103,4 +103,5 @@ I’m excited to continue learning, collaborating with organized teams, and buil
 <br>
 
 📄 You can check my full CV here: [📄 View my CV (PDF)](https://github.com/user-attachments/files/33663388/CV-Claudia.pdf)
+
 🔎 Check the repositories section to see my efforts! Hope you enjoy it!
