@@ -22,7 +22,7 @@ I’m excited to continue learning, collaborating with organized teams, and buil
 
 #### Core Languages
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://shields.io/badge/-SQL-000000?style=flat&logo=sql)
