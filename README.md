@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-Hi, nice to meet you! My name is Clàudia, and I’m a software developer with a background in fashion design. Inspired by friends working in tech and encouraged by their mentorship, I decided to pursue a new career path.
+Hi, nice to meet you! My name is Clàudia, and I’m a software developer with a background in fashion design. Inspired by friends working in tech and encouraged by their mentorship, I decided to pursue a new career path. I am deeply eager to work, and although I am a junior, all I need is the opportunity to be trained and the drive to grow. I am quick-witted and highly resourceful, but I just need someone to give me that chance to prove it.
 
 Since then, I have continuously invested in my learning through personal projects, self-study, specialized courses, bootcamps, hackathons, and formal education. I completed an 850-hour FullStack Bootcamp at [Factoría F5](https://factoriaf5.org/), a Backend Bootcamp at [IronHack](https://ironhack.com/), and recently finished a Higher Degree in Multiplatform Application Development (DAM) at [IFP](https://www.ifp.es/), which included a six-month internship at Grup Montaner, where I contributed to the company's digital transformation initiatives.
 
