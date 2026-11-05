@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-Hi, nice to meet you! My name is Clàudia, and I’m a software developer with a background in fashion design. Inspired by friends working in tech and encouraged by their mentorship, I decided to pursue a new career path. I am deeply eager to work, and although I am a junior, all I need is the opportunity to be trained and the drive to grow. I am quick-witted and highly resourceful, but I just need someone to give me that chance to prove it.
+Hi, nice to meet you! My name is Clàudia, and I’m a software developer with a background in fashion design. Inspired by friends working in tech and encouraged by their mentorship, I decided to pursue a new career path.
 
 Since then, I have continuously invested in my learning through personal projects, self-study, specialized courses, bootcamps, hackathons, and formal education. I completed an 850-hour FullStack Bootcamp at [Factoría F5](https://factoriaf5.org/), a Backend Bootcamp at [IronHack](https://ironhack.com/), and recently finished a Higher Degree in Multiplatform Application Development (DAM) at [IFP](https://www.ifp.es/), which included a six-month internship at Grup Montaner, where I contributed to the company's digital transformation initiatives.
 
@@ -14,7 +14,7 @@ Ideally, I am actively seeking stability and professional growth as a **Junior F
 - **💬 Adaptive Communication:** I value the ability to transfer information clearly and adapt technical concepts to different team levels, ensuring everyone stays aligned without friction.
 - **🌱 Continuous Growth:** I am looking to join supportive, well-structured teams committed to developing junior talent through rigorous onboarding and real mentorship from senior professionals.
 
-I’m excited to continue learning, collaborating with organized teams, and building meaningful, robust software solutions from my base in Barcelona, Spain.
+I am deeply eager to work, and although I am a junior, all I need is the opportunity to be trained and the mentorship to grow professionally. I am proactive and solution-oriented; I just need someone to give me that initial chance to prove myself, join a strong team, and build solutions that deliver real value.
 
 ---
 
