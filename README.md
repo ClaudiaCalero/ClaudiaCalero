@@ -88,6 +88,7 @@ I am deeply eager to work, and although I am a junior, all I need is the opportu
 ![Trello](https://shields.io/badge/-Trello-000000?style=flat&logo=trello)
 ![Notion](https://shields.io/badge/-Notion-000000?style=flat&logo=notion)
 ![ClaudeAI](https://shields.io/badge/-ClaudeAI-000000?style=flat&logo=claudeAI)
+![GeminiAI](https://shields.io/badge/-GeminiAI-000000?style=flat&logo=geminiAI)
 
 #### Academic Exposure & Frameworks
 ![VueJS](https://shields.io/badge/-VueJS-000000?style=flat&logo=vuejs)
